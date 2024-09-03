@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://covaltersu.github.io/sitemap.html.gz
+Sitemap: https://covaltersu.github.io/app/sitemap.html.gz
+Sitemap: https://covaltersu.github.io/assets/sitemap.html.gz
+Sitemap: https://covaltersu.github.io/css/sitemap.html.gz
+Sitemap: https://covaltersu.github.io/includes/sitemap.html.gz
+Sitemap: https://covaltersu.github.io/item/sitemap.html.gz
+Sitemap: https://covaltersu.github.io/src/sitemap.html.gz
